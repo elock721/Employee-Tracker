@@ -36,7 +36,7 @@ Depending on what the user selects:
 
 - Add Department - addDeparments()
 - Add Role - addRoles()
-- Add Employee - createNewEmployee() then addEmployee
+- Add Employee - createNewEmployee() then addEmployee()
 - View Departments - viewDepartments() 
 - View Roles - viewRoles()
 - View Employees - viewEmployees()
