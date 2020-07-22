@@ -1,6 +1,6 @@
 ## Employee Tracker Overview
 
-This CLI allows the user to keep track of employees
+This Content Management System allows the user to keep track of employees 
 
 The user will first run "node tracking_infoCRUD.js"
 
@@ -11,6 +11,8 @@ They are able to add or view employees, roles and departments as well as update 
 Once they finish adding the requested information, they will be able to view it by selecting one of the view options
 
 ## Pseudo Code
+
+This CLI uses node, inquirer and MySQL
 
 The schema.sql file contains three seperate tables consisting of:
 
