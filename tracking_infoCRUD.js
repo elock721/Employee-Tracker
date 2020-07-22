@@ -13,7 +13,7 @@ var connection = mysql.createConnection({
     user: "root",
   
     // Your password
-    password: "libby4193!",
+    password: "",
     database: "tracking_infoDB"
   });
 
