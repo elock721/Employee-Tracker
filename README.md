@@ -34,13 +34,13 @@ The displayQuestions function initially prompts the user with the first set of q
 
 Depending on what the user selects:
 
-Add Department - addDeparments()
-Add Role - addRoles()
-Add Employee - createNewEmployee() then addEmployee
-View Departments - viewDepartments() 
-View Roles - viewRoles()
-View Employees - viewEmployees()
-Update Employee Role - updateEmployees()
+- Add Department - addDeparments()
+- Add Role - addRoles()
+- Add Employee - createNewEmployee() then addEmployee
+- View Departments - viewDepartments() 
+- View Roles - viewRoles()
+- View Employees - viewEmployees()
+- Update Employee Role - updateEmployees()
 
  The proper function will then be called within the displayQuestions function through a series of if else statements and the user will be able to exectue their desired task
 
